@@ -1,0 +1,36 @@
+duplicate tests: FAIL 0, INFO 35
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/adobe/spectrum-css-workflow-icons -> adobe-spectrum-css-ccx-workflow-icons, spectrum-workflow-icons
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/frontiersin/primeuix -> frontiers-icons, frontiers-pictograms
+  INFO T5 shared repository (3 sets, expected for variant sets): https://github.com/gorango/glyphs -> glyphs-core, glyphs, glyphs-poly
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/momentum-design/momentum-ui -> momentum-ui-icons, momentum-ui-icons-rebrand
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/navikt/aksel -> navikt-aksel-icons, navikt-ds-icons
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/carbon-design-system/carbon -> wfp-pictograms, carbon
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/uiwjs/icons -> whalecloud-fishx-iconfont, uiw
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/cybexai/afroicons -> afroicons, afroicons-ui
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/box-icons/boxicons-core -> boxicons, bxl
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/atisawd/boxicons -> bx, bxs
+  INFO T5 shared repository (3 sets, expected for variant sets): https://github.com/coreui/coreui-icons -> cib, cif, cil
+  INFO T5 shared repository (23 sets, expected for variant sets): https://github.com/webalys-hq/streamline-vectors -> covid, streamline-cyber-color, streamline-cyber, streamline-flex-color, streamline-flex, streamline-freehand-color, streamline-freehand, guidance, streamline-kameleon-color, streamline-logos, streamline-memes, streamline-pixel, streamline-plump-color, streamline-plump, streamline-sharp-color, streamline-sharp, streamline-stickies-color, streamline, streamline-block, streamline-color, streamline-emojis, streamline-ultimate-color, streamline-ultimate
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/atomiclabs/cryptocurrency-icons -> cryptocurrency-color, cryptocurrency
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/devicons/devicon -> devicon, devicon-plain
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/emojitwo/emojitwo -> emojione, emojione-monotone
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/microsoft/fluentui-emoji -> fluent-emoji-flat, fluent-emoji-high-contrast
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/microsoft/fluentui-system-icons -> fluent-color, fluent
+  INFO T5 shared repository (3 sets, expected for variant sets): https://github.com/fortawesome/font-awesome -> fa7-brands, fa7-regular, fa7-solid
+  INFO T5 shared repository (4 sets, expected for variant sets): https://github.com/bytedance/iconpark -> icon-park, icon-park-outline, icon-park-solid, icon-park-twotone
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/googlefonts/noto-emoji -> noto, noto-v1
+  INFO T5 shared repository (3 sets, expected for variant sets): https://github.com/cycraft/pepicons -> pepicons-pencil, pepicons-pop, pepicons-print
+  INFO T5 shared repository (3 sets, expected for variant sets): https://github.com/mdrakibshekh/uix-icons -> uix, uix-sharp, uix-solid
+  INFO T5 shared repository (4 sets, expected for variant sets): https://github.com/iconscout/unicons -> uil, uim, uis, uit
+  INFO T5 shared repository (2 sets, expected for variant sets): https://github.com/0xa3k5/web3icons -> token, token-branded
+  INFO T5 shared repository (27 sets, expected for variant sets): https://github.com/withevergrow/withicons -> withicons, withicons-anime, withicons-bauhaus, withicons-bento, withicons-brutal, withicons-christmas, withicons-chrome, withicons-clay, withicons-coquette, withicons-lunar, withicons-dock, withicons-glass, withicons-gothic, withicons-halloween, withicons-kawaii, withicons-liquid, withicons-luxe, withicons-pastel, withicons-plush, withicons-rangoli, withicons-retro, withicons-skeuo, withicons-soft3d, withicons-sticker, withicons-suite, withicons-utsav, withicons-valentine
+  INFO T6 one npm package behind 2 sets (expected for variants): @boxicons/core
+  INFO T6 one npm package behind 2 sets (expected for variants): boxicons
+  INFO T6 one npm package behind 3 sets (expected for variants): @coreui/icons
+  INFO T6 one npm package behind 2 sets (expected for variants): cryptocurrency-icons
+  INFO T6 one npm package behind 2 sets (expected for variants): devicon
+  INFO T6 one npm package behind 3 sets (expected for variants): @fortawesome/fontawesome-free
+  INFO T6 one npm package behind 4 sets (expected for variants): @iconscout/unicons
+  INFO T8 lobehub-icons-static-svg shares 90.0 % of icons with yldm-tech-ai-logo-static-svg (later or undated origin, not moved)
+  INFO T8 aws-icons-directory shares 70.3 % of icons with aws-iconic (later or undated origin, not moved)
+  INFO T8 simple-icons shares 88.4 % of icons with thesvg-color (later or undated origin, not moved)

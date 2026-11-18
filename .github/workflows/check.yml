@@ -1,0 +1,20 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      # Rebuilds the data from the viewer, runs every check (no network needed: it uses evidence/)
+      - name: Run all checks
+        run: sh scripts/run_all.sh
+      # The rebuilt files must be identical to the committed ones
+      - name: Outputs unchanged
+        run: git diff --exit-code -- data tests SHA256SUMS build_input collect/COVERAGE.md

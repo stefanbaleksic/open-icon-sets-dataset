@@ -1,0 +1,125 @@
+column,type,meaning
+id,number,"Row number, in name order."
+set_id,text,"Iconify prefix of the set, or the v1 slug for sets that Iconify does not carry."
+name,text,Name of the icon set.
+author,text,"Author or publisher as given by Iconify (or v1). Sets found on npm: the npm account that published the latest version, not necessarily the designer."
+frame,text,"iconify (from the Iconify catalogue); v1 (not in Iconify): design-system sets found on npm in v1; v1 (Iconify set archived or hidden): v1 libraries whose Iconify set is outside the frame. ""npm discovery (not in Iconify)"": found by the v3 npm search."
+iconify_category,text,"Category that Iconify assigns (UI 24px, UI 16px / 32px, UI Multicolor, Logos, Emoji, Flags, ...). Iconify sets only."
+iconify_tags,text,"Iconify tags (for example Precise Shapes, Has Padding). Iconify sets only."
+grid_px,number,Icon height (grid) in pixels as given by Iconify; empty when mixed. Sets found on npm: most common viewBox height of the SVG files.
+palette,text,"monotone (one colour, currentColor) or multicolor, from Iconify."
+icons_total,number,Number of icons. Iconify counts each style variant as an icon; v1-only rows use the npm package count (see icons_total_source). Iconify sets: Iconify's count (every style variant counts as one icon). Sets found on npm: unique SVG files in the npm package (exact duplicates counted once).
+icons_total_source,text,Where icons_total comes from.
+iconify_version,text,"Version of the set in Iconify, where reported. Iconify sets only."
+iconify_license,text,Licence that Iconify reports (SPDX where available). Iconify sets only.
+iconify_license_url,text,Licence link given by Iconify. Iconify sets only.
+license_type,text,"permissive, public_domain, creative_commons_attribution, cc_share_alike, cc_no_derivatives, cc_non_commercial, copyleft, font_licence, split_or_dual, split_by_asset, custom_restricted, custom_umbrella_permissive, commercial_tiered. From the licence text where read, else from the Iconify licence."
+license_check,text,"Comparison of the Iconify licence with the licence text: agrees / differs / partial / not_checked (with the reason). Values: ""agrees"", ""differs"", ""partial"", ""text_only"" (read: the licence text was read for its title and grant paragraph, by the author for the v2.1 Iconify rows and by an AI assistant for 98 of the rows found on npm; not a full legal reading), ""auto_match"", ""auto_partial"", ""auto_differs"", ""auto_text_only"" (automatic text-pattern comparison of the declared licence with the licence file in the npm package; nobody read these) and ""not_checked""."
+license_restrictions,text,"Conditions beyond attribution, from the hand-read licences of v1. Not legal advice."
+license_evidence,text,"Which text the licence fields rest on: v1 package review, repository licence file (automatic or read by hand), or Iconify only. For sets found on npm: the file in the npm package that was compared, or why nothing could be compared."
+repo_url,text,"Repository used: the upstream repository from v1 where matched (Iconify sometimes points to a fork), else the Iconify author URL."
+repo_source,text,Where repo_url comes from.
+repo_status,text,"ok, not_readable (git could not read it), no_github_repository."
+repo_last_commit_date,text,Last commit on the default branch on the check date (whole repository).
+repo_commit_sha,text,Commit that was read.
+sets_from_same_repo,number,How many sets of the dataset come from the same repository (for example several Font Awesome styles).
+npm_package,text,"npm package of the set: from v1 where matched, else the public root package.json name when its npm record names the same repository. Empty when none was confirmed."
+npm_package_source,text,How npm_package was found.
+npm_latest_version,text,Latest version on npm.
+npm_license_declared,text,licence field of the latest npm version.
+npm_last_publish,text,Most recent npm publication up to the check date.
+stable_releases_730d,number,Stable (x.y.z) npm releases in the 730 days to 2026-11-16.
+release_gap_median_days,number,Median days between stable releases; only with 10 or more in the window.
+release_status,text,"active (stable release within 365 days), stale, no_stable_release."
+npm_downloads_30d,number,npm downloads 2026-10-17 to 2026-11-15. Not users.
+in_v1,text,Slug of the matching row in Icon Libraries Dataset v1 (deeper package and licence review).
+sample_icons,text,"Up to three sample icon names chosen by Iconify, shown in the browsable page."
+checked_on,text,Date of data collection.
+iconify_package,text,"Iconify's distribution package of the set on npm, @iconify-json/<prefix>. Iconify sets only."
+iconify_package_version,text,Latest version of that package on the collection date. Iconify sets only.
+iconify_package_last_publish,text,Date that version was published. Iconify sets only.
+iconify_downloads_30d,number,"npm downloads of @iconify-json/<prefix>, 2026-10-17 to 2026-11-15. Downloads are not users. Available for every Iconify set, including sets without a package of their own."
+iconify_downloads_365d,number,The same for 2025-11-16 to 2026-11-15.
+iconify_set_last_modified,text,Date the set was last changed in Iconify's copy (lastModified in the set data). Not the date of the upstream release. Iconify sets only.
+icons_hidden_n,number,Icons that Iconify marks as hidden. They are left out of icons_total and of every statistic in the Icons group. Iconify sets only.
+icons_aliases_n,number,Aliases in the set data (extra names for an existing icon). Iconify's icons_total includes a few aliases in some emoji sets. Iconify sets only.
+iconify_categories_n,number,Number of categories the set defines in Iconify. Iconify sets only.
+style_variants,text,Style suffixes or prefixes that Iconify declares for the set and that occur in icon names (for example fill;line). Empty when the set declares none.
+style_variants_n,number,Number of entries in style_variants.
+unique_base_names,number,Distinct icon names after removing one declared style suffix or prefix. An estimate of distinct drawings; icons_total counts every variant.
+icon_viewbox_px,number,Most common viewBox height in the icon data. It differs from grid_px when Iconify shows a larger viewBox (for example 256) at a smaller display size.
+icons_own_size_pct,number,Share of icons that carry their own width or height instead of the set default.
+icons_currentcolor_pct,number,"Share of icons whose drawing uses currentColor, so CSS colour recolours them."
+icons_hardcoded_color_pct,number,"Share of icons with a fixed colour (hex, rgb, hsl or CSS colour name) in fill, stroke or stop-color. Pure black and white are ignored because they occur in masks. Animation values such as fill=""freeze"" are not colours and are ignored."
+icons_gradient_pct,number,Share of icons that define a gradient.
+icons_stroke_based_pct,number,"Share of icons drawn with SVG strokes (a stroke paint with stroke-width not 0). Icons that were converted to outlined fills count as fill, so the value says how the SVG is built, not how the icon looks."
+icons_animated_n,number,Icons that contain SMIL animation elements.
+stroke_width_mode,number,"Most common stroke-width among the stroke-based icons, in viewBox units."
+median_icon_bytes,number,Median size of the SVG body of an icon in bytes (without the svg tag).
+mean_icon_bytes,number,Mean size of the SVG body in bytes.
+measured_palette,text,"monotone when at most 5 % of icons have fixed colours and at most 5 % gradients; multicolor when 50 % or more have either; mixed otherwise. Compare with palette, Iconify's own label."
+icon_construction,text,"stroke when 80 % or more of the icons are stroke-based, fill when 20 % or fewer, mixed otherwise."
+remix_name_overlap_pct,number,"Share of this set's unique base names that also exist in Remix Icon (same name, any style). Naming overlap only; it does not say the drawings look alike."
+license_spdx_confirmed,text,"SPDX id of the licence, only where the licence text was read and agrees with Iconify."
+license_osi_approved,text,yes or no from the SPDX licence list (isOsiApproved) for license_spdx_confirmed. Empty when no SPDX id is confirmed.
+license_fsf_libre,text,yes or no from the SPDX licence list (isFsfLibre) for license_spdx_confirmed.
+license_attribution_required,text,yes: the licence notice or a credit must be kept or given; no: none required; see_text: depends on the custom licence or on the asset. Derived from license_type. Not legal advice.
+license_commercial_use,text,"yes, no or see_text. Derived from license_type. Not legal advice."
+license_derivatives_allowed,text,"yes, no or see_text. Derived from license_type. Not legal advice."
+license_share_alike,text,"yes when changed copies must carry the same licence (CC BY-SA, copyleft); otherwise no or see_text. Derived from license_type. Not legal advice."
+repo_first_commit_date,text,Date of the oldest commit in the history of the default branch.
+repo_age_years,number,Years from the first commit to 2026-11-16.
+repo_days_since_last_commit,number,Days from repo_last_commit_date to 2026-11-16.
+repo_activity,text,"active: last commit within 90 days; recent: within 365 days; dormant: older. By commit date, whole repository."
+repo_commits_total,number,Commits on the default branch up to 2026-11-16 23:59:59 UTC (merge commits included).
+repo_commits_365d,number,Commits from 2025-11-17 to 2026-11-16.
+repo_authors_total,number,"Distinct commit author e-mail addresses over the whole history, bots excluded (names or addresses matching dependabot, renovate, github-actions, [bot] and similar). One person with several addresses counts several times."
+repo_authors_365d,number,The same for the last 365 days.
+repo_top_author_share_365d,number,Share of the human commits of the last 365 days made by the most active author address (1 means one person). High values point to dependence on one maintainer.
+repo_default_branch,text,Name of the default branch of the clone.
+repo_semver_tags,number,"Tags shaped x.y.z or vx.y.z, dated up to 2026-11-16."
+repo_latest_semver_tag,text,Highest such tag.
+repo_latest_semver_tag_date,text,Date of that tag.
+repo_files_total,number,Files in the tree at the head commit of the check date (whole repository).
+repo_svg_files,number,SVG files in the whole repository. In repositories shared by several sets (sets_from_same_repo above 1) the number is not per set.
+repo_has_icon_font,text,"yes when the repository holds font files (ttf, otf, woff, woff2, eot)."
+repo_has_design_files,text,"yes when the repository holds design source files (fig, sketch, ai, xd, psd, eps, afdesign)."
+repo_has_readme,text,yes when a README file is in the repository root.
+repo_has_changelog,text,"yes when a CHANGELOG, CHANGES, HISTORY or RELEASES file is in the root."
+repo_has_contributing,text,yes when a CONTRIBUTING file is in the root or in .github.
+repo_has_security_policy,text,yes when a SECURITY file is in the root or in .github.
+repo_has_ci,text,"yes when GitHub Actions workflows or a Travis, CircleCI or GitLab CI file exist."
+gh_stars,number,"GitHub stars of the repository, read 2026-11-17 (one day after the other fields). Whole repository: sets that share a repository share the number."
+gh_forks,number,"GitHub forks of the repository, read 2026-11-17."
+gh_created_date,text,Date the GitHub repository was created. Can be later than the first commit when history was imported.
+npm_first_publish,text,Date of the first version published to npm.
+npm_versions_total,number,"All versions ever published, pre-releases included."
+npm_maintainers_n,number,People or teams listed as maintainers of the package.
+npm_deprecated,text,yes when the latest version is marked deprecated.
+npm_dependencies_n,number,Runtime dependencies of the latest version.
+npm_peer_dependencies_n,number,Peer dependencies of the latest version.
+npm_has_types,text,"yes when the latest version declares TypeScript types (types, typings or an exports entry)."
+npm_module_type,text,The package.json type field: module (ES modules) or commonjs (the npm default when absent).
+npm_has_exports_map,text,yes when package.json defines an exports map.
+npm_unpacked_size_bytes,number,unpackedSize as reported by the npm registry. Compare with the measured value.
+npm_file_count_registry,number,"fileCount as reported by the npm registry. It can include directory entries, so it can be larger than npm_package_files (for example akar-icons: 7 against 5)."
+npm_provenance,text,yes when the latest version carries a provenance attestation (build traced to a public source).
+npm_dependents,number,"Packages that depend on this one, as npm's search reports it."
+npm_downloads_prev30d,number,npm downloads 2026-09-17 to 2026-10-16.
+npm_downloads_change_pct,number,"Change of npm_downloads_30d against the previous 30 days, in percent."
+npm_package_files,number,"Regular files inside the latest tarball, counted from the tarball itself (directory entries are not counted)."
+npm_package_svg_files,number,"SVG files inside the tarball, without sprite sheets and SVG font variants (the rule used in v1)."
+npm_package_font_files,number,"Font files (woff, woff2, ttf, eot, otf) inside the tarball."
+npm_unpacked_size_measured_bytes,number,Sum of the file sizes counted from the tarball.
+npm_downloads_365d,number,npm downloads 2025-11-16 to 2026-11-15.
+npm_jsdelivr_hits_30d,number,"jsDelivr CDN requests for the package, 2026-10-16 to 2026-11-14 (jsDelivr's API runs a day behind npm). Filled only where jsDelivr returned a full 30 days."
+npm_homepage,text,homepage field of the latest version.
+icons_fingerprinted_n,number,"Number of distinct icons whose path data was fingerprinted for the overlap comparison (icons without a path `d` attribute, such as ones made of rect or circle elements only, are not counted)."
+icon_overlap_max_pct,number,Largest share (0..100) of this set's fingerprinted icons whose path data also occurs in one other set of the table. Only for sets with at least 20 fingerprinted icons. 100 means every icon of this set has an identical drawing in the other set. Not the same as the sets being legally copies: sets can share a common upstream.
+icon_overlap_with,text,set_id of the set with the largest overlap; blank when the overlap is 0.
+icon_overlap_basis,text,exact (identical normalised path strings) or rounded_1dp (identical after rounding numbers to one decimal). The larger share of the two is reported.
+repo_package_dir,text,"Folder of the package inside the repository, from the repository.directory field of the npm record (monorepos). Blank where npm names none. Filled for sets found on npm only; the v2.1 rows are unchanged."
+pkg_commits_total,number,"Commits that touched the package folder, up to 2026-11-16 23:59:59 UTC (git log on a blobless clone). Folder history only follows the current path; renamed folders lose earlier history."
+pkg_commits_365d,number,"The same, in the 365 days from 2025-11-17."
+pkg_authors_365d,number,Distinct author e-mail addresses on those commits in 365 days (one person with several addresses counts several times).
+pkg_last_commit_date,text,Date of the last commit that touched the package folder.

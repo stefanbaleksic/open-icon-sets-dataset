@@ -1,0 +1,3123 @@
+{
+ "jsdelivr": {
+  "16pxls": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@3yourmind/yoco": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@aasaam/brand-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@aceshooting/lyra-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@adobe/spectrum-css-ccx-workflow-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@adobe/spectrum-css-workflow-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@alaskaairux/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@alisaitteke/noun-mcp": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@amplifiedhq/countries-atlas": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ant-design/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ant-design/web3-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@aphrody/assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@api3/logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@apify/ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@apitree.cz/brand": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@appwrite.io/pink-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@artsy/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@atlaskit/icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@atlasng/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@bcc-code/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@bentley/icons-generic": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@bigcommerce/big-design-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@bitcoin-design/bitcoin-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@blueprintjs/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@boxicons/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@brightlayer-ui/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@carbon/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@cardog-icons/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@channel.io/bezier-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@charcoal-ui/icon-files": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@chassis-ui/website-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@chisquare-tech/yan-design-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@clayui/css": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@cloud-ru/ds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@clubmed/trident-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@codecademy/gamut-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@coinbase/cds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@colony-care/lab-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@commenteme/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@commmerce/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@coreui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@coreui/icons-pro": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@coyoapp/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@cryptofonts/cryptofont": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dasa-health/alma-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dataforsyningen/designsystem": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dataimago/brand": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dataloop-ai/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@davidabou/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@deckdot/vapor-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@democruit-labs/career-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@denali-design/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@deriv-com/quill-logos-web": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@designsystemsinternational/flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@designtools/cascade": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@devslab/dds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dfds-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dga-icons/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dialpad/dialtone-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@doc88/flux-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dou-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@douyinfe/semi-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@douyinfe/semi-icons-lab": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ds-mo/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@duetds/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@dusk-design/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@easypost/easy-ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@educationadvanced/eai-graphics": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@elgato/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@elvia/elvis-assets-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@emeraldplatform/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@emetro/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@enzet/roentgen": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@epilot360/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@esri/calcite-ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@exawizards/exabase-design-system-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@exodus/combined-assets-meta": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@fabric-msft/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@firestitch/icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@fishtank/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@flippo-software/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@fluentui/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@fortawesome/fontawesome-free": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@freshworks/crayons-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@frontiers/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@frontiers/pictograms": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@frontify/fondue-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@geneui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@getflip/swirl-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ggds/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ghs-hazard-pictograms/assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@glyphs/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@gravity-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@hackernoon/pixel-icon-library": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@haiilo/catalyst-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@handsontable/spreadsheet-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@hashicorp/flight-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@hashicorp/structure-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@hpe-design/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@hugeicons/core-free-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@icon-park/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@iconix/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@iconoven/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@iconscout/unicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@identitate-md/logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@identitate-ro/logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@igniteui/material-icons-extended": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ikions/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@imtf/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@instructure/ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@islamicons/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@itwin/itwinui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@itwin/itwinui-icons-color": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@jaatster/blip-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@jack-henry/jh-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@jetbrains/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@jetbrains/logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@johnmorrisdotca/hata": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@kanselarij-vlaanderen/au-kaleidos-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@kapowaz/square-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@kolkrabbi/kol-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@koobiq/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@kyndryl-design-system/shidoka-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@leapdev/gui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@literary-universe/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@lobehub/icons-static-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@loganmarchione/homelab-svg-assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@luceviasicons/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@maggioli-design-system/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@maliardic/ma-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@manageiq/font-fabulous": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mapbox/maki": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@marketicons/bist": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@material-symbols/svg-400": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@matita/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@maz-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mcp-s/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mdi/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@metamask/contract-metadata": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mirohq/design-system-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mirror-physics/fractal-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@momentum-design/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@momentum-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@momentum-ui/icons-rebrand": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mozaic-ds/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mozilla-protocol/assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mui/icons-material": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@muraldevkit/ds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@mynaui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@naturacosmeticos/natds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@navikt/aksel-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@navikt/ds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ncds/ui-admin-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@neume-icons/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nice-digital/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nordhealth/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nrk/core-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nubo-icons/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nudge-icons/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nvidia/gui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@nysds/nys-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@omnicajs/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@onfido/castor-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@openng/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@opensearch-project/oui": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@openships/openbridge-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@opentiny/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@openvue/openicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@oprt/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@opuscapita/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@oreo-design/doodle-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@osui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ozen-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@paprika/icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@pathwright/pathicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@patternfly/react-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@phosphor-icons/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@pierre/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@pine-ds/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@platformscode/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@playtopia/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@plone/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@pluralsight/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@primer/octicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ptsecurity/mosaic-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@qeetrix/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@qlik/sprout-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@radianui/flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@rapideditor/temaki": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@react95/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@rescui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@risklab/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@rocket.chat/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@rockshin/tao-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@russian-flags/regions": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@salesforce-ux/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sb1/ffe-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sbb-esta/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sbb-esta/pictograms": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@scayle/panel-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sfrc/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@shopify/polaris-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@siemens/ix-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sikt/sds-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sippy-platform/valkyrie": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sit-onyx/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sketchyicons/static": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@skeu/static": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@slatico/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@snappmarket/icons_support": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@softstroke/svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sonojs/flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@spark-ui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@spectrum-css/ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@stackoverflow/stacks-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@stemui/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@stratakit/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sumup-oss/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@superlogica/design-system-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@swisper.ai/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@swisspost/design-system-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@synotech/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@sysvale/cuida-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@tabler/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@talend/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@traum-ferienwohnungen/fontfare": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@trendyol/baklava-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@trimble-oss/modus-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@twemoji/api": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@typo3/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@ui5/webcomponents-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@uipath/apollo-ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@uiuxicons/core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@uiw/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@univerjs/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@useblu/ocean-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@utilitywarehouse/hearth-svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vaadin/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vismaux/ngx-vud-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vivareal/lina-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vkontakte/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vokril/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@volue/design-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vscode/codicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vtmn/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@vuesax-alpha/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@waysidemapping/pinhead": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wfp/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wfp/pictograms": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@whalecloud/fishx-iconfont": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wonderflow/symbols": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@workday/canvas-system-icons-web": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wp-pay/logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wticons/astro": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@wyg-plus/icons-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@yammadev/flag-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@yldm-tech/ai-logo-static-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@zebra-fed/zeta-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@zendeskgarden/svg-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@zerobertoo/r6operators": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@zl-ui-kit/icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "@zuccadev-labs/zuix-zicon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "academicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "adinkra-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "afroicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "afroicons-ui": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "agenticons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "akar-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "alma-brands": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "alma-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "amicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "apen-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "aws-iconic": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "aws-icons-directory": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "banklogos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "blokprint-emoji": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "bootstrap-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "boxicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "bulle-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "bytesize-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "car-brand-logos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "carbon-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "charm-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "cil-linkpay-logo": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "circle-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "cmmn-font": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "coat-of-arms": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "country-flag-emoji-json": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "country-flag-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "crypto-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "cryptocoins-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "cryptocons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "cryptocurrency-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "crypull": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "css.gg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "curvicon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "dev-badge-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "devicon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "dls-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "duo-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "dusk-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "emblematic-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "entypo": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "euneo-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "eva-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "even-toolkit": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "famfamfam-flags-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "feather-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "feathericon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "file-icon-vectors": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "flag-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "flagkit-web": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "flagpack-core": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "flowbite-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "forma-country-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "foundation-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "framework7-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "fyicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "gadget-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "gamifiedui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "geoglyphs": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "ghicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "gl-icons-assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "glassmarshmallow-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "govicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "graphis": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "griddy-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "gridicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "grommet-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "gw2-class-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "hand-drawn-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "haticons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "healing-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "healthicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "heroicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "hiato-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "hr-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "humbleicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "ibm-design-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "icon-batch": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "iconoir": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "idn-finlogos": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "ikonate": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "iobroker.icons-mfd-svg": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "ionicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "iso3166-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "isostack": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "jelly-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "kawaii-icon-pack": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "ki-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "krz-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "language-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "language-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "leit": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "line-awesome": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "line-md": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "linearicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "logoapi": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "logohane": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "logos-bancos-br": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "lucide-static": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "lunar-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "majesticons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "mana-font": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "map-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "material-icon-theme": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "media-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "merki-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "meya-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "mimetypeicon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "minicons-animated": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "mono-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "naive-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "nes.icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "nxt-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "omni-file": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "openmoji": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "pennants": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "piconss": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "pixel-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "pixelarticons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "platformicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "pn-design-assets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "primeicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "qweather-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "remixicon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "rivet-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "runeicons-brands": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "salah-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "salve-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "sargam-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "signal-flag-images": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "simple-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "simple-line-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "soaring-symbols": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "social-icons-webfont": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "solace-ui-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "solite-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "super-tiny-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "supercons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "svg-country-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "svg-flags": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "tablecheck-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "tagsets": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "teenyicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "typicons.font": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "uasset-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "vicons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "vivid-icons": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "vscode-symbols": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "wakeb-clients": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "weui-icon": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "zest-pro": {
+   "npm_jsdelivr_hits_30d": null
+  },
+  "zodiacfonts": {
+   "npm_jsdelivr_hits_30d": null
+  }
+ },
+ "github": {
+  "https://github.com/0xa3k5/web3icons": {
+   "gh_stars": 297,
+   "gh_forks": 40,
+   "gh_created_date": "2024-03-06"
+  },
+  "https://github.com/32pixelsCo/zest-icons": {
+   "gh_stars": 14,
+   "gh_forks": 1,
+   "gh_created_date": "2018-11-26"
+  },
+  "https://github.com/3YOURMIND/kotti": {
+   "gh_stars": 81,
+   "gh_forks": 10,
+   "gh_created_date": "2017-12-11"
+  },
+  "https://github.com/3lvia/designsystem": {
+   "gh_stars": 5,
+   "gh_forks": 0,
+   "gh_created_date": "2020-09-14"
+  },
+  "https://github.com/540co/govicons": {
+   "gh_stars": 77,
+   "gh_forks": 8,
+   "gh_created_date": "2015-11-23"
+  },
+  "https://github.com/AlaskaAirlines/Icons": {
+   "gh_stars": 6,
+   "gh_forks": 10,
+   "gh_created_date": "2019-03-07"
+  },
+  "https://github.com/AnandChowdhary/language-icons": {
+   "gh_stars": 73,
+   "gh_forks": 21,
+   "gh_created_date": "2019-03-02"
+  },
+  "https://github.com/AndyLiu0427/hr-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-07"
+  },
+  "https://github.com/Arcticons-Team/Arcticons": {
+   "gh_stars": 1632,
+   "gh_forks": 479,
+   "gh_created_date": "2020-10-23"
+  },
+  "https://github.com/Automattic/gridicons": {
+   "gh_stars": 116,
+   "gh_forks": 14,
+   "gh_created_date": "2014-08-27"
+  },
+  "https://github.com/Banno/jack-henry-design-system": {
+   "gh_stars": 12,
+   "gh_forks": 2,
+   "gh_created_date": "2025-10-20"
+  },
+  "https://github.com/BitcoinDesign/Bitcoin-Icons": {
+   "gh_stars": 125,
+   "gh_forks": 23,
+   "gh_created_date": "2020-10-23"
+  },
+  "https://github.com/CemWebDev/piconss": {
+   "gh_stars": 4,
+   "gh_forks": 0,
+   "gh_created_date": "2024-10-11"
+  },
+  "https://github.com/Codecademy/gamut": {
+   "gh_stars": 89,
+   "gh_forks": 31,
+   "gh_created_date": "2016-10-12"
+  },
+  "https://github.com/CodyAdam/omni-file": {
+   "gh_stars": 9,
+   "gh_forks": 0,
+   "gh_created_date": "2024-10-03"
+  },
+  "https://github.com/Colony-Care/lab-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-10"
+  },
+  "https://github.com/CoreyGinnivan/system-uicons": {
+   "gh_stars": 648,
+   "gh_forks": 27,
+   "gh_created_date": "2020-05-25"
+  },
+  "https://github.com/CyCraft/pepicons": {
+   "gh_stars": 60,
+   "gh_forks": 6,
+   "gh_created_date": "2020-06-23"
+  },
+  "https://github.com/D3vaya/pennants": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-22"
+  },
+  "https://github.com/Decathlon/vitamin-web": {
+   "gh_stars": 290,
+   "gh_forks": 76,
+   "gh_created_date": "2020-12-16"
+  },
+  "https://github.com/DouyinFE/semi-design": {
+   "gh_stars": 10492,
+   "gh_forks": 861,
+   "gh_created_date": "2021-10-25"
+  },
+  "https://github.com/ETCDEVTeam/emerald-js": {
+   "gh_stars": 11,
+   "gh_forks": 6,
+   "gh_created_date": "2017-09-04"
+  },
+  "https://github.com/EasyPost/easy-ui": {
+   "gh_stars": 15,
+   "gh_forks": 5,
+   "gh_created_date": "2022-08-08"
+  },
+  "https://github.com/EmojiTwo/emojitwo": {
+   "gh_stars": 363,
+   "gh_forks": 58,
+   "gh_created_date": "2017-04-20"
+  },
+  "https://github.com/Esri/calcite-design-system": {
+   "gh_stars": 391,
+   "gh_forks": 99,
+   "gh_created_date": "2019-05-09"
+  },
+  "https://github.com/Fantomiald/sketchyicons": {
+   "gh_stars": 5,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-30"
+  },
+  "https://github.com/FlippoSoftware/icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-30"
+  },
+  "https://github.com/Foisalislambd/crypull": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-02-21"
+  },
+  "https://github.com/FortAwesome/Font-Awesome": {
+   "gh_stars": 77045,
+   "gh_forks": 12156,
+   "gh_created_date": "2012-02-17"
+  },
+  "https://github.com/Frontify/fondue": {
+   "gh_stars": 27,
+   "gh_forks": 7,
+   "gh_created_date": "2021-07-04"
+  },
+  "https://github.com/GlassMarshmallow/glassmarshmallow-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-17"
+  },
+  "https://github.com/HatScripts/circle-flags": {
+   "gh_stars": 1624,
+   "gh_forks": 336,
+   "gh_created_date": "2018-12-05"
+  },
+  "https://github.com/IBM-Design/icons": {
+   "gh_stars": 191,
+   "gh_forks": 44,
+   "gh_created_date": "2015-04-20"
+  },
+  "https://github.com/Iconmind/iconmind": {
+   "gh_stars": 14,
+   "gh_forks": 1,
+   "gh_created_date": "2026-08-24"
+  },
+  "https://github.com/Iconscout/unicons": {
+   "gh_stars": 1527,
+   "gh_forks": 105,
+   "gh_created_date": "2019-01-29"
+  },
+  "https://github.com/IgniteUI/material-icons-extended": {
+   "gh_stars": 17,
+   "gh_forks": 3,
+   "gh_created_date": "2020-07-07"
+  },
+  "https://github.com/JetBrains/icons": {
+   "gh_stars": 66,
+   "gh_forks": 18,
+   "gh_created_date": "2017-07-27"
+  },
+  "https://github.com/JetBrains/logos": {
+   "gh_stars": 30,
+   "gh_forks": 8,
+   "gh_created_date": "2017-07-31"
+  },
+  "https://github.com/Kajabi/pine-icons": {
+   "gh_stars": 2,
+   "gh_forks": 1,
+   "gh_created_date": "2023-10-04"
+  },
+  "https://github.com/Klarr-Agency/Circum-Icons": {
+   "gh_stars": 180,
+   "gh_forks": 16,
+   "gh_created_date": "2022-04-05"
+  },
+  "https://github.com/LineiconsHQ/Lineicons": {
+   "gh_stars": 161,
+   "gh_forks": 10,
+   "gh_created_date": "2022-12-28"
+  },
+  "https://github.com/Liquid-JS/nxt-components": {
+   "gh_stars": 26,
+   "gh_forks": 5,
+   "gh_created_date": "2023-03-03"
+  },
+  "https://github.com/LiteraryUniverse/icons": {
+   "gh_stars": 1,
+   "gh_forks": 1,
+   "gh_created_date": "2023-07-22"
+  },
+  "https://github.com/LouisMazel/maz-ui": {
+   "gh_stars": 565,
+   "gh_forks": 76,
+   "gh_created_date": "2019-12-25"
+  },
+  "https://github.com/LuceviasIcons/luceviasicons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-02"
+  },
+  "https://github.com/Mage-Icons/mage-icons": {
+   "gh_stars": 90,
+   "gh_forks": 1,
+   "gh_created_date": "2023-06-03"
+  },
+  "https://github.com/ManageIQ/font-fabulous": {
+   "gh_stars": 4,
+   "gh_forks": 11,
+   "gh_created_date": "2017-02-22"
+  },
+  "https://github.com/MetaMask/contract-metadata": {
+   "gh_stars": 585,
+   "gh_forks": 1470,
+   "gh_created_date": "2017-05-26"
+  },
+  "https://github.com/NVIDIA/icons": {
+   "gh_stars": 1,
+   "gh_forks": 2,
+   "gh_created_date": "2026-08-17"
+  },
+  "https://github.com/Nikola-Limpet/solite-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-27"
+  },
+  "https://github.com/OpusCapita/svg-icons": {
+   "gh_stars": 4,
+   "gh_forks": 0,
+   "gh_created_date": "2016-11-24"
+  },
+  "https://github.com/OzzyCzech/wticons": {
+   "gh_stars": 3,
+   "gh_forks": 1,
+   "gh_created_date": "2022-11-18"
+  },
+  "https://github.com/Pictogrammers/Memory": {
+   "gh_stars": 207,
+   "gh_forks": 9,
+   "gh_created_date": "2022-07-17"
+  },
+  "https://github.com/ProCode-Software/proicons": {
+   "gh_stars": 16,
+   "gh_forks": 0,
+   "gh_created_date": "2024-08-12"
+  },
+  "https://github.com/ProfessorBlackman/ghicons": {
+   "gh_stars": 6,
+   "gh_forks": 2,
+   "gh_created_date": "2025-05-10"
+  },
+  "https://github.com/Radian-OS/radianui": {
+   "gh_stars": 64,
+   "gh_forks": 5,
+   "gh_created_date": "2025-04-01"
+  },
+  "https://github.com/React95/React95": {
+   "gh_stars": 3846,
+   "gh_forks": 166,
+   "gh_created_date": "2018-04-07"
+  },
+  "https://github.com/Remix-Design/remixicon": {
+   "gh_stars": 8461,
+   "gh_forks": 569,
+   "gh_created_date": "2018-12-16"
+  },
+  "https://github.com/Richard9394/MingCute": {
+   "gh_stars": 1657,
+   "gh_forks": 61,
+   "gh_created_date": "2021-07-06"
+  },
+  "https://github.com/RocketChat/Rocket.Chat": {
+   "gh_stars": 46638,
+   "gh_forks": 14190,
+   "gh_created_date": "2015-05-19"
+  },
+  "https://github.com/Runeicons/runeicons": {
+   "gh_stars": 733,
+   "gh_forks": 52,
+   "gh_created_date": "2026-02-20"
+  },
+  "https://github.com/Sam-r-passmore/energy-icons": {
+   "gh_stars": 34,
+   "gh_forks": 1,
+   "gh_created_date": "2026-09-28"
+  },
+  "https://github.com/SchwarzIT/onyx": {
+   "gh_stars": 126,
+   "gh_forks": 20,
+   "gh_created_date": "2023-12-19"
+  },
+  "https://github.com/Shopify/polaris": {
+   "gh_stars": 6147,
+   "gh_forks": 1245,
+   "gh_created_date": "2017-04-20"
+  },
+  "https://github.com/SonoJS/SonoJS-flags": {
+   "gh_stars": 1,
+   "gh_forks": 1,
+   "gh_created_date": "2026-11-12"
+  },
+  "https://github.com/SpareBank1/designsystem": {
+   "gh_stars": 116,
+   "gh_forks": 87,
+   "gh_created_date": "2018-02-26"
+  },
+  "https://github.com/StackExchange/Stacks-Icons": {
+   "gh_stars": 42,
+   "gh_forks": 22,
+   "gh_created_date": "2018-09-04"
+  },
+  "https://github.com/Sysvale/cuida-icons": {
+   "gh_stars": 4,
+   "gh_forks": 0,
+   "gh_created_date": "2022-11-09"
+  },
+  "https://github.com/TYPO3/TYPO3.Icons": {
+   "gh_stars": 63,
+   "gh_forks": 26,
+   "gh_created_date": "2015-09-14"
+  },
+  "https://github.com/Talend/ui": {
+   "gh_stars": 160,
+   "gh_forks": 53,
+   "gh_created_date": "2017-01-18"
+  },
+  "https://github.com/Templarian/MaterialDesign-SVG": {
+   "gh_stars": 271,
+   "gh_forks": 66,
+   "gh_created_date": "2017-04-24"
+  },
+  "https://github.com/Templarian/MaterialDesignLight": {
+   "gh_stars": 101,
+   "gh_forks": 16,
+   "gh_created_date": "2015-06-19"
+  },
+  "https://github.com/Tencent/tdesign-icons": {
+   "gh_stars": 99,
+   "gh_forks": 37,
+   "gh_created_date": "2021-11-08"
+  },
+  "https://github.com/TheCommieAxolotl/leit": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2025-07-19"
+  },
+  "https://github.com/Tor-Grimsson/kol-ds": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-01"
+  },
+  "https://github.com/Trendyol/baklava-icons": {
+   "gh_stars": 11,
+   "gh_forks": 3,
+   "gh_created_date": "2023-05-03"
+  },
+  "https://github.com/UI5/webcomponents": {
+   "gh_stars": 1795,
+   "gh_forks": 293,
+   "gh_created_date": "2019-01-24"
+  },
+  "https://github.com/UiPath/apollo-ui": {
+   "gh_stars": 20,
+   "gh_forks": 10,
+   "gh_created_date": "2025-11-03"
+  },
+  "https://github.com/VKCOM/icons": {
+   "gh_stars": 144,
+   "gh_forks": 67,
+   "gh_created_date": "2018-06-10"
+  },
+  "https://github.com/Voxybuns/at-icons": {
+   "gh_stars": 404,
+   "gh_forks": 9,
+   "gh_created_date": "2026-05-26"
+  },
+  "https://github.com/WordPress/gutenberg": {
+   "gh_stars": 11796,
+   "gh_forks": 4978,
+   "gh_created_date": "2017-02-03"
+  },
+  "https://github.com/Workday/canvas-icons": {
+   "gh_stars": 1,
+   "gh_forks": 4,
+   "gh_created_date": "2026-05-14"
+  },
+  "https://github.com/Yummygum/flagpack-core": {
+   "gh_stars": 653,
+   "gh_forks": 130,
+   "gh_created_date": "2019-05-08"
+  },
+  "https://github.com/ZLDR/IdentitateMD": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-03-04"
+  },
+  "https://github.com/ZebraDevs/zeta-icons": {
+   "gh_stars": 3,
+   "gh_forks": 1,
+   "gh_created_date": "2024-07-03"
+  },
+  "https://github.com/aasaam/brand-icons": {
+   "gh_stars": 29,
+   "gh_forks": 3,
+   "gh_created_date": "2020-06-29"
+  },
+  "https://github.com/aceshooting/lyra-ui": {
+   "gh_stars": 7,
+   "gh_forks": 1,
+   "gh_created_date": "2026-07-09"
+  },
+  "https://github.com/acl-services/paprika": {
+   "gh_stars": 54,
+   "gh_forks": 9,
+   "gh_created_date": "2018-08-31"
+  },
+  "https://github.com/adobe/spectrum-css": {
+   "gh_stars": 1294,
+   "gh_forks": 214,
+   "gh_created_date": "2018-11-05"
+  },
+  "https://github.com/adobe/spectrum-css-workflow-icons": {
+   "gh_stars": 20,
+   "gh_forks": 15,
+   "gh_created_date": "2019-08-19"
+  },
+  "https://github.com/akveo/eva-icons": {
+   "gh_stars": 8812,
+   "gh_forks": 372,
+   "gh_created_date": "2018-10-30"
+  },
+  "https://github.com/alisaitteke/noun-mcp": {
+   "gh_stars": 7,
+   "gh_forks": 0,
+   "gh_created_date": "2026-01-24"
+  },
+  "https://github.com/allienworks/cryptocoins": {
+   "gh_stars": 814,
+   "gh_forks": 184,
+   "gh_created_date": "2014-11-13"
+  },
+  "https://github.com/alrkiyan/dga-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-28"
+  },
+  "https://github.com/amckenna41/iso3166-flag-icons": {
+   "gh_stars": 23,
+   "gh_forks": 3,
+   "gh_created_date": "2022-07-06"
+  },
+  "https://github.com/amplifiedhq/countries-atlas": {
+   "gh_stars": 10,
+   "gh_forks": 4,
+   "gh_created_date": "2023-08-08"
+  },
+  "https://github.com/andflett/cascade": {
+   "gh_stars": 39,
+   "gh_forks": 0,
+   "gh_created_date": "2026-03-13"
+  },
+  "https://github.com/andrewgioia/mana": {
+   "gh_stars": 424,
+   "gh_forks": 43,
+   "gh_created_date": "2015-03-23"
+  },
+  "https://github.com/andrsrxn/icons": {
+   "gh_stars": 37,
+   "gh_forks": 2,
+   "gh_created_date": "2026-07-25"
+  },
+  "https://github.com/ant-design/ant-design-icons": {
+   "gh_stars": 1104,
+   "gh_forks": 597,
+   "gh_created_date": "2018-06-29"
+  },
+  "https://github.com/ant-design/ant-design-web3": {
+   "gh_stars": 1149,
+   "gh_forks": 202,
+   "gh_created_date": "2023-08-18"
+  },
+  "https://github.com/api3dao/logos": {
+   "gh_stars": 4,
+   "gh_forks": 6,
+   "gh_created_date": "2023-11-24"
+  },
+  "https://github.com/applifted/lucide-extended": {
+   "gh_stars": 23,
+   "gh_forks": 1,
+   "gh_created_date": "2026-09-24"
+  },
+  "https://github.com/appwrite/pink": {
+   "gh_stars": 522,
+   "gh_forks": 51,
+   "gh_created_date": "2022-01-17"
+  },
+  "https://github.com/artcoholic/akar-icons": {
+   "gh_stars": 419,
+   "gh_forks": 22,
+   "gh_created_date": "2020-10-21"
+  },
+  "https://github.com/astrit/css.gg": {
+   "gh_stars": 10062,
+   "gh_forks": 494,
+   "gh_created_date": "2019-10-01"
+  },
+  "https://github.com/atelier-anchor/dinkie-icons": {
+   "gh_stars": 49,
+   "gh_forks": 0,
+   "gh_created_date": "2021-11-24"
+  },
+  "https://github.com/atisawd/boxicons": {
+   "gh_stars": 3178,
+   "gh_forks": 317,
+   "gh_created_date": "2018-06-15"
+  },
+  "https://github.com/atomiclabs/cryptocurrency-icons": {
+   "gh_stars": 2757,
+   "gh_forks": 664,
+   "gh_created_date": "2017-05-21"
+  },
+  "https://github.com/basmilius/weather-icons": {
+   "gh_stars": 1693,
+   "gh_forks": 176,
+   "gh_created_date": "2019-02-19"
+  },
+  "https://github.com/bcc-code/bcc-design": {
+   "gh_stars": 2,
+   "gh_forks": 7,
+   "gh_created_date": "2023-01-17"
+  },
+  "https://github.com/bigcommerce/big-design": {
+   "gh_stars": 59,
+   "gh_forks": 62,
+   "gh_created_date": "2019-01-13"
+  },
+  "https://github.com/box-icons/boxicons-core": {
+   "gh_stars": 6,
+   "gh_forks": 0,
+   "gh_created_date": "2026-02-12"
+  },
+  "https://github.com/bpmn-io/cmmn-font": {
+   "gh_stars": 1,
+   "gh_forks": 4,
+   "gh_created_date": "2016-03-14"
+  },
+  "https://github.com/bytedance/IconPark": {
+   "gh_stars": 9033,
+   "gh_forks": 557,
+   "gh_created_date": "2020-07-27"
+  },
+  "https://github.com/carbon-design-system/carbon": {
+   "gh_stars": 9628,
+   "gh_forks": 2305,
+   "gh_created_date": "2017-03-13"
+  },
+  "https://github.com/carbon-design-system/carbon-icons": {
+   "gh_stars": 96,
+   "gh_forks": 51,
+   "gh_created_date": "2017-03-23"
+  },
+  "https://github.com/carsonhung/gamifiedUI": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-31"
+  },
+  "https://github.com/catppuccin/vscode-icons": {
+   "gh_stars": 1045,
+   "gh_forks": 90,
+   "gh_created_date": "2023-02-22"
+  },
+  "https://github.com/chancancode/entypo-plus": {
+   "gh_stars": 46,
+   "gh_forks": 9,
+   "gh_created_date": "2015-02-23"
+  },
+  "https://github.com/channel-io/bezier-react": {
+   "gh_stars": 285,
+   "gh_forks": 53,
+   "gh_created_date": "2020-05-11"
+  },
+  "https://github.com/chassis-ui/website-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-03"
+  },
+  "https://github.com/cjpatoilo/linearicons": {
+   "gh_stars": 80,
+   "gh_forks": 11,
+   "gh_created_date": "2016-10-06"
+  },
+  "https://github.com/cloud-ru-tech/snack-v2": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-20"
+  },
+  "https://github.com/cns-iu/AtlasNG": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-03-25"
+  },
+  "https://github.com/coinbase/cds": {
+   "gh_stars": 510,
+   "gh_forks": 116,
+   "gh_created_date": "2024-11-08"
+  },
+  "https://github.com/componext/tagsets": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-20"
+  },
+  "https://github.com/coreui/coreui-icons": {
+   "gh_stars": 2145,
+   "gh_forks": 160,
+   "gh_created_date": "2018-04-22"
+  },
+  "https://github.com/cugos/geoglyphs": {
+   "gh_stars": 19,
+   "gh_forks": 3,
+   "gh_created_date": "2015-06-18"
+  },
+  "https://github.com/cyberalien/line-md": {
+   "gh_stars": 378,
+   "gh_forks": 15,
+   "gh_created_date": "2020-09-20"
+  },
+  "https://github.com/cyberalien/nimbus-icons": {
+   "gh_stars": 7,
+   "gh_forks": 0,
+   "gh_created_date": "2023-03-20"
+  },
+  "https://github.com/cybexai/afroicons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-29"
+  },
+  "https://github.com/daidr/dou-ui": {
+   "gh_stars": 1,
+   "gh_forks": 1,
+   "gh_created_date": "2026-10-28"
+  },
+  "https://github.com/danklammer/bytesize-icons": {
+   "gh_stars": 3912,
+   "gh_forks": 224,
+   "gh_created_date": "2015-07-15"
+  },
+  "https://github.com/dariushhpg1/IconaMoon": {
+   "gh_stars": 96,
+   "gh_forks": 12,
+   "gh_created_date": "2021-08-29"
+  },
+  "https://github.com/darkharasho/gw2-class-icons": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-02-05"
+  },
+  "https://github.com/dataloop-ai/icons": {
+   "gh_stars": 3,
+   "gh_forks": 3,
+   "gh_created_date": "2022-12-11"
+  },
+  "https://github.com/davidabou/icons": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-24"
+  },
+  "https://github.com/davidumoru/nubo-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-09"
+  },
+  "https://github.com/democruit/career-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-14"
+  },
+  "https://github.com/denali-design/denali-icons": {
+   "gh_stars": 8,
+   "gh_forks": 3,
+   "gh_created_date": "2021-03-09"
+  },
+  "https://github.com/designsystemsinternational/flags": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2021-07-08"
+  },
+  "https://github.com/devicons/devicon": {
+   "gh_stars": 11878,
+   "gh_forks": 2443,
+   "gh_created_date": "2014-03-01"
+  },
+  "https://github.com/devslab-kr/dds": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-12"
+  },
+  "https://github.com/dfenstermaker/flagkit-web": {
+   "gh_stars": 0,
+   "gh_forks": 1,
+   "gh_created_date": "2018-02-21"
+  },
+  "https://github.com/dialpad/dialtone": {
+   "gh_stars": 15,
+   "gh_forks": 9,
+   "gh_created_date": "2023-10-24"
+  },
+  "https://github.com/dmhendricks/file-icon-vectors": {
+   "gh_stars": 381,
+   "gh_forks": 78,
+   "gh_created_date": "2017-09-07"
+  },
+  "https://github.com/doc88git/flux-icon": {
+   "gh_stars": 3,
+   "gh_forks": 2,
+   "gh_created_date": "2020-01-20"
+  },
+  "https://github.com/dqev/reicon": {
+   "gh_stars": 1783,
+   "gh_forks": 98,
+   "gh_created_date": "2026-05-05"
+  },
+  "https://github.com/dream-num/univer-icons": {
+   "gh_stars": 19,
+   "gh_forks": 4,
+   "gh_created_date": "2024-01-09"
+  },
+  "https://github.com/dukestreetstudio/zondicons": {
+   "gh_stars": 56,
+   "gh_forks": 10,
+   "gh_created_date": "2016-08-29"
+  },
+  "https://github.com/ecomfe/dls-icons": {
+   "gh_stars": 18,
+   "gh_forks": 9,
+   "gh_created_date": "2020-05-18"
+  },
+  "https://github.com/edent/SuperTinyIcons": {
+   "gh_stars": 15446,
+   "gh_forks": 969,
+   "gh_created_date": "2017-04-13"
+  },
+  "https://github.com/elax46/custom-brand-icons": {
+   "gh_stars": 1128,
+   "gh_forks": 168,
+   "gh_created_date": "2021-05-12"
+  },
+  "https://github.com/element-plus/element-plus-icons": {
+   "gh_stars": 175,
+   "gh_forks": 110,
+   "gh_created_date": "2020-12-21"
+  },
+  "https://github.com/elgatosf/icons": {
+   "gh_stars": 5,
+   "gh_forks": 2,
+   "gh_created_date": "2024-11-02"
+  },
+  "https://github.com/enixCode/isostack": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-23"
+  },
+  "https://github.com/enzet/Roentgen": {
+   "gh_stars": 27,
+   "gh_forks": 4,
+   "gh_created_date": "2022-12-18"
+  },
+  "https://github.com/erikflowers/weather-icons": {
+   "gh_stars": 7173,
+   "gh_forks": 846,
+   "gh_created_date": "2013-06-29"
+  },
+  "https://github.com/etn-ccis/blui-icons": {
+   "gh_stars": 12,
+   "gh_forks": 8,
+   "gh_created_date": "2018-08-02"
+  },
+  "https://github.com/eucalyptuss/ikonate": {
+   "gh_stars": 3587,
+   "gh_forks": 188,
+   "gh_created_date": "2017-10-20"
+  },
+  "https://github.com/evicons/evicons": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-02"
+  },
+  "https://github.com/evil-icons/evil-icons": {
+   "gh_stars": 5007,
+   "gh_forks": 216,
+   "gh_created_date": "2014-10-30"
+  },
+  "https://github.com/fabioglimb/even-toolkit": {
+   "gh_stars": 100,
+   "gh_forks": 10,
+   "gh_created_date": "2026-03-18"
+  },
+  "https://github.com/fazdiu/duo-icons": {
+   "gh_stars": 80,
+   "gh_forks": 6,
+   "gh_created_date": "2023-02-08"
+  },
+  "https://github.com/feathericon/feathericon": {
+   "gh_stars": 196,
+   "gh_forks": 21,
+   "gh_created_date": "2016-07-05"
+  },
+  "https://github.com/feathericons/feather": {
+   "gh_stars": 26043,
+   "gh_forks": 1281,
+   "gh_created_date": "2014-05-28"
+  },
+  "https://github.com/fefanto/fontaudio": {
+   "gh_stars": 419,
+   "gh_forks": 19,
+   "gh_created_date": "2019-09-16"
+  },
+  "https://github.com/file-icons/icons": {
+   "gh_stars": 279,
+   "gh_forks": 63,
+   "gh_created_date": "2016-06-26"
+  },
+  "https://github.com/florianfaure/neume": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-06"
+  },
+  "https://github.com/folabas/banklogos": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-09-25"
+  },
+  "https://github.com/fontello/brandico.font": {
+   "gh_stars": 301,
+   "gh_forks": 58,
+   "gh_created_date": "2012-05-01"
+  },
+  "https://github.com/formkit/formkit": {
+   "gh_stars": 4787,
+   "gh_forks": 207,
+   "gh_created_date": "2021-06-02"
+  },
+  "https://github.com/framework7io/framework7-icons": {
+   "gh_stars": 232,
+   "gh_forks": 118,
+   "gh_created_date": "2016-10-05"
+  },
+  "https://github.com/freshworks/crayons": {
+   "gh_stars": 248,
+   "gh_forks": 64,
+   "gh_created_date": "2019-02-12"
+  },
+  "https://github.com/fyambos/bulle-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-14"
+  },
+  "https://github.com/gabriVinaiGit/ki-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-06"
+  },
+  "https://github.com/game-icons/icons": {
+   "gh_stars": 1369,
+   "gh_forks": 163,
+   "gh_created_date": "2015-08-04"
+  },
+  "https://github.com/getflip/swirl": {
+   "gh_stars": 14,
+   "gh_forks": 8,
+   "gh_created_date": "2022-06-21"
+  },
+  "https://github.com/getsentry/platformicons": {
+   "gh_stars": 43,
+   "gh_forks": 23,
+   "gh_created_date": "2014-09-11"
+  },
+  "https://github.com/ghana-gds/ggds": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-09"
+  },
+  "https://github.com/gilbarbara/logos": {
+   "gh_stars": 6858,
+   "gh_forks": 757,
+   "gh_created_date": "2015-06-11"
+  },
+  "https://github.com/glaucioleonardo/gl-icons-assets": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2021-04-18"
+  },
+  "https://github.com/glincker/thesvg": {
+   "gh_stars": 3015,
+   "gh_forks": 257,
+   "gh_created_date": "2026-03-07"
+  },
+  "https://github.com/gmgeo/osmic": {
+   "gh_stars": 127,
+   "gh_forks": 25,
+   "gh_created_date": "2014-12-19"
+  },
+  "https://github.com/google/material-design-icons": {
+   "gh_stars": 54323,
+   "gh_forks": 9748,
+   "gh_created_date": "2014-10-08"
+  },
+  "https://github.com/googlefonts/noto-emoji": {
+   "gh_stars": 5138,
+   "gh_forks": 576,
+   "gh_created_date": "2015-06-05"
+  },
+  "https://github.com/gorango/glyphs": {
+   "gh_stars": 477,
+   "gh_forks": 22,
+   "gh_created_date": "2020-10-04"
+  },
+  "https://github.com/gravity-ui/icons": {
+   "gh_stars": 146,
+   "gh_forks": 14,
+   "gh_created_date": "2022-11-14"
+  },
+  "https://github.com/griddy-icons/griddy-icons": {
+   "gh_stars": 196,
+   "gh_forks": 4,
+   "gh_created_date": "2025-11-24"
+  },
+  "https://github.com/grommet/grommet-icons": {
+   "gh_stars": 344,
+   "gh_forks": 65,
+   "gh_created_date": "2017-09-05"
+  },
+  "https://github.com/grommet/hpe-design-system": {
+   "gh_stars": 66,
+   "gh_forks": 29,
+   "gh_created_date": "2019-11-07"
+  },
+  "https://github.com/guardaco/crypto-icons": {
+   "gh_stars": 62,
+   "gh_forks": 11,
+   "gh_created_date": "2018-03-18"
+  },
+  "https://github.com/guokaigdg/naive-icons": {
+   "gh_stars": 301,
+   "gh_forks": 8,
+   "gh_created_date": "2026-09-13"
+  },
+  "https://github.com/hackernoon/pixel-icon-library": {
+   "gh_stars": 428,
+   "gh_forks": 34,
+   "gh_created_date": "2023-06-13"
+  },
+  "https://github.com/hafidznoor/idn-finlogos": {
+   "gh_stars": 110,
+   "gh_forks": 15,
+   "gh_created_date": "2026-05-20"
+  },
+  "https://github.com/haiilo/catalyst-icons": {
+   "gh_stars": 6,
+   "gh_forks": 2,
+   "gh_created_date": "2022-04-23"
+  },
+  "https://github.com/halfmage/majesticons": {
+   "gh_stars": 190,
+   "gh_forks": 12,
+   "gh_created_date": "2021-01-30"
+  },
+  "https://github.com/halfmage/pixelarticons": {
+   "gh_stars": 907,
+   "gh_forks": 33,
+   "gh_created_date": "2019-06-30"
+  },
+  "https://github.com/handsontable/spreadsheet-icons": {
+   "gh_stars": 14,
+   "gh_forks": 3,
+   "gh_created_date": "2018-12-03"
+  },
+  "https://github.com/hashicorp/design-system": {
+   "gh_stars": 519,
+   "gh_forks": 56,
+   "gh_created_date": "2021-11-01"
+  },
+  "https://github.com/hashicorp/structure-icons": {
+   "gh_stars": 6,
+   "gh_forks": 8,
+   "gh_created_date": "2019-04-29"
+  },
+  "https://github.com/hatip5656/kawaii-icon-pack": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-26"
+  },
+  "https://github.com/hfg-gmuend/openmoji": {
+   "gh_stars": 4588,
+   "gh_forks": 275,
+   "gh_created_date": "2017-12-13"
+  },
+  "https://github.com/hjnilsson/country-flags": {
+   "gh_stars": 3797,
+   "gh_forks": 1007,
+   "gh_created_date": "2012-07-14"
+  },
+  "https://github.com/hugeicons/hugeicons": {
+   "gh_stars": 1236,
+   "gh_forks": 51,
+   "gh_created_date": "2024-02-11"
+  },
+  "https://github.com/hypermodules/entypo": {
+   "gh_stars": 63,
+   "gh_forks": 12,
+   "gh_created_date": "2016-12-14"
+  },
+  "https://github.com/iTwin/stratakit": {
+   "gh_stars": 27,
+   "gh_forks": 3,
+   "gh_created_date": "2024-08-01"
+  },
+  "https://github.com/ibrarli/apen-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-03-12"
+  },
+  "https://github.com/iconi-to/free-food": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-18"
+  },
+  "https://github.com/iconoir-icons/iconoir": {
+   "gh_stars": 4647,
+   "gh_forks": 202,
+   "gh_created_date": "2018-03-27"
+  },
+  "https://github.com/icons8/line-awesome": {
+   "gh_stars": 1318,
+   "gh_forks": 144,
+   "gh_created_date": "2017-02-22"
+  },
+  "https://github.com/indiana-university/rivet-icons": {
+   "gh_stars": 7,
+   "gh_forks": 5,
+   "gh_created_date": "2018-06-07"
+  },
+  "https://github.com/infitusofficial/slatico": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-30"
+  },
+  "https://github.com/instructure/instructure-ui": {
+   "gh_stars": 487,
+   "gh_forks": 112,
+   "gh_created_date": "2015-12-10"
+  },
+  "https://github.com/ioBroker/ioBroker.icons-mfd-svg": {
+   "gh_stars": 9,
+   "gh_forks": 3,
+   "gh_created_date": "2015-05-20"
+  },
+  "https://github.com/ionic-team/ionicons": {
+   "gh_stars": 18256,
+   "gh_forks": 2047,
+   "gh_created_date": "2013-10-10"
+  },
+  "https://github.com/jaatster/blip": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-01"
+  },
+  "https://github.com/jakuborlowski/famfamfam-flags-svg": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-09-26"
+  },
+  "https://github.com/jashjacob/gadget-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-09-08"
+  },
+  "https://github.com/jaynewey/charm-icons": {
+   "gh_stars": 35,
+   "gh_forks": 2,
+   "gh_created_date": "2020-12-29"
+  },
+  "https://github.com/jdecked/twemoji": {
+   "gh_stars": 1924,
+   "gh_forks": 122,
+   "gh_created_date": "2020-05-08"
+  },
+  "https://github.com/johnmorrisdotca/hata": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-09"
+  },
+  "https://github.com/josharsh/agenticons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-07"
+  },
+  "https://github.com/joypixels/emojione-legacy": {
+   "gh_stars": 25,
+   "gh_forks": 4,
+   "gh_created_date": "2015-12-17"
+  },
+  "https://github.com/jpswalsh/academicons": {
+   "gh_stars": 882,
+   "gh_forks": 104,
+   "gh_created_date": "2014-12-29"
+  },
+  "https://github.com/juliocarneiro/salve-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-08"
+  },
+  "https://github.com/kapowaz/square-flags": {
+   "gh_stars": 106,
+   "gh_forks": 20,
+   "gh_created_date": "2023-10-16"
+  },
+  "https://github.com/karlnorling/ghs-hazard-pictograms": {
+   "gh_stars": 3,
+   "gh_forks": 1,
+   "gh_created_date": "2026-04-12"
+  },
+  "https://github.com/kevinkhagan/adinkra-icons": {
+   "gh_stars": 56,
+   "gh_forks": 16,
+   "gh_created_date": "2021-04-07"
+  },
+  "https://github.com/keyline-icons/keyline-icons": {
+   "gh_stars": 231,
+   "gh_forks": 9,
+   "gh_created_date": "2026-08-20"
+  },
+  "https://github.com/koobiq/icons": {
+   "gh_stars": 6,
+   "gh_forks": 0,
+   "gh_created_date": "2024-02-02"
+  },
+  "https://github.com/krystonschwarze/coolicons": {
+   "gh_stars": 499,
+   "gh_forks": 37,
+   "gh_created_date": "2020-02-01"
+  },
+  "https://github.com/kyndryl-design-system/shidoka-icons": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2024-07-11"
+  },
+  "https://github.com/lachlanjc/supercons": {
+   "gh_stars": 210,
+   "gh_forks": 9,
+   "gh_created_date": "2021-02-03"
+  },
+  "https://github.com/laurentiucotet/IdentitateRO": {
+   "gh_stars": 4,
+   "gh_forks": 1,
+   "gh_created_date": "2026-02-08"
+  },
+  "https://github.com/leboncoin/spark-web": {
+   "gh_stars": 94,
+   "gh_forks": 28,
+   "gh_created_date": "2023-01-26"
+  },
+  "https://github.com/liferay/clay": {
+   "gh_stars": 246,
+   "gh_forks": 532,
+   "gh_created_date": "2014-07-29"
+  },
+  "https://github.com/lipis/flag-icons": {
+   "gh_stars": 12536,
+   "gh_forks": 1951,
+   "gh_created_date": "2013-09-25"
+  },
+  "https://github.com/lobehub/lobe-icons": {
+   "gh_stars": 2707,
+   "gh_forks": 289,
+   "gh_created_date": "2024-01-30"
+  },
+  "https://github.com/loganmarchione/homelab-svg-assets": {
+   "gh_stars": 1258,
+   "gh_forks": 79,
+   "gh_created_date": "2022-12-01"
+  },
+  "https://github.com/logoapi/logo-api": {
+   "gh_stars": 24,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-25"
+  },
+  "https://github.com/loreanvictor/graphis": {
+   "gh_stars": 6,
+   "gh_forks": 0,
+   "gh_created_date": "2021-07-09"
+  },
+  "https://github.com/lucasgruwez/lunar-icons": {
+   "gh_stars": 21,
+   "gh_forks": 1,
+   "gh_created_date": "2017-06-03"
+  },
+  "https://github.com/lucide-icons/lucide": {
+   "gh_stars": 25832,
+   "gh_forks": 1696,
+   "gh_created_date": "2020-06-08"
+  },
+  "https://github.com/lucide-icons/lucide-lab": {
+   "gh_stars": 230,
+   "gh_forks": 16,
+   "gh_created_date": "2024-04-05"
+  },
+  "https://github.com/magma-design-system/magma": {
+   "gh_stars": 0,
+   "gh_forks": 1,
+   "gh_created_date": "2026-06-03"
+  },
+  "https://github.com/mapbox/maki": {
+   "gh_stars": 1584,
+   "gh_forks": 210,
+   "gh_created_date": "2012-01-03"
+  },
+  "https://github.com/marella/material-symbols": {
+   "gh_stars": 297,
+   "gh_forks": 44,
+   "gh_created_date": "2022-05-01"
+  },
+  "https://github.com/material-extensions/vscode-material-icon-theme": {
+   "gh_stars": 3039,
+   "gh_forks": 814,
+   "gh_created_date": "2016-09-09"
+  },
+  "https://github.com/matita-dev/icons": {
+   "gh_stars": 53,
+   "gh_forks": 3,
+   "gh_created_date": "2026-10-02"
+  },
+  "https://github.com/mdrakibshekh/uix-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-26"
+  },
+  "https://github.com/microsoft/fluentui-emoji": {
+   "gh_stars": 10228,
+   "gh_forks": 573,
+   "gh_created_date": "2021-07-30"
+  },
+  "https://github.com/microsoft/fluentui-system-icons": {
+   "gh_stars": 10991,
+   "gh_forks": 817,
+   "gh_created_date": "2020-05-12"
+  },
+  "https://github.com/microsoft/vscode-codicons": {
+   "gh_stars": 1179,
+   "gh_forks": 216,
+   "gh_created_date": "2019-10-15"
+  },
+  "https://github.com/milankomaj/dev-badge-icon": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2021-04-08"
+  },
+  "https://github.com/misolori/vscode-symbols": {
+   "gh_stars": 555,
+   "gh_forks": 104,
+   "gh_created_date": "2022-08-01"
+  },
+  "https://github.com/momentum-design/momentum-ui": {
+   "gh_stars": 215,
+   "gh_forks": 223,
+   "gh_created_date": "2019-01-06"
+  },
+  "https://github.com/mono-company/mono-icons": {
+   "gh_stars": 992,
+   "gh_forks": 26,
+   "gh_created_date": "2020-09-11"
+  },
+  "https://github.com/monzanifabio/cryptofont": {
+   "gh_stars": 183,
+   "gh_forks": 26,
+   "gh_created_date": "2018-05-22"
+  },
+  "https://github.com/mozilla/fxemoji": {
+   "gh_stars": 335,
+   "gh_forks": 36,
+   "gh_created_date": "2015-06-22"
+  },
+  "https://github.com/mozilla/protocol-assets": {
+   "gh_stars": 13,
+   "gh_forks": 7,
+   "gh_created_date": "2018-05-10"
+  },
+  "https://github.com/mui/material-ui": {
+   "gh_stars": 99351,
+   "gh_forks": 32486,
+   "gh_created_date": "2014-08-18"
+  },
+  "https://github.com/n3r4zzurr0/svg-spinners": {
+   "gh_stars": 7021,
+   "gh_forks": 841,
+   "gh_created_date": "2022-06-11"
+  },
+  "https://github.com/natura-cosmeticos/natds-commons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2020-05-20"
+  },
+  "https://github.com/navikt/aksel": {
+   "gh_stars": 186,
+   "gh_forks": 44,
+   "gh_created_date": "2017-05-24"
+  },
+  "https://github.com/nazmijavier/meya-icons": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-09-25"
+  },
+  "https://github.com/ndri/sidekickicons": {
+   "gh_stars": 51,
+   "gh_forks": 1,
+   "gh_created_date": "2024-10-28"
+  },
+  "https://github.com/nice-digital/nice-design-system": {
+   "gh_stars": 17,
+   "gh_forks": 10,
+   "gh_created_date": "2016-07-19"
+  },
+  "https://github.com/nikhilol/hand-drawn-icons": {
+   "gh_stars": 13,
+   "gh_forks": 0,
+   "gh_created_date": "2021-08-05"
+  },
+  "https://github.com/nostalgic-css/NES.icons": {
+   "gh_stars": 132,
+   "gh_forks": 23,
+   "gh_created_date": "2018-12-06"
+  },
+  "https://github.com/nrkno/core-icons": {
+   "gh_stars": 17,
+   "gh_forks": 3,
+   "gh_created_date": "2017-03-24"
+  },
+  "https://github.com/nudge-icons/nudge-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-07"
+  },
+  "https://github.com/nureddinhaji/islamicons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-23"
+  },
+  "https://github.com/ocean-ds/ocean-icons": {
+   "gh_stars": 4,
+   "gh_forks": 4,
+   "gh_created_date": "2021-02-09"
+  },
+  "https://github.com/oclero/qlementine-icons": {
+   "gh_stars": 87,
+   "gh_forks": 9,
+   "gh_created_date": "2023-06-17"
+  },
+  "https://github.com/ogzhncnmr/logohane": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-11"
+  },
+  "https://github.com/omnicajs/icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-06"
+  },
+  "https://github.com/onfido/castor-icons": {
+   "gh_stars": 13,
+   "gh_forks": 4,
+   "gh_created_date": "2020-11-25"
+  },
+  "https://github.com/open-ships/openbridge-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-13"
+  },
+  "https://github.com/openng-org/icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-15"
+  },
+  "https://github.com/opensearch-project/oui": {
+   "gh_stars": 56,
+   "gh_forks": 99,
+   "gh_created_date": "2022-07-11"
+  },
+  "https://github.com/openvi-foundation/openicons": {
+   "gh_stars": 2,
+   "gh_forks": 1,
+   "gh_created_date": "2026-07-15"
+  },
+  "https://github.com/oreo-design/doodle-icons": {
+   "gh_stars": 153,
+   "gh_forks": 6,
+   "gh_created_date": "2026-09-02"
+  },
+  "https://github.com/pacocoursey/dusk": {
+   "gh_stars": 171,
+   "gh_forks": 9,
+   "gh_created_date": "2018-10-01"
+  },
+  "https://github.com/palantir/blueprint": {
+   "gh_stars": 22218,
+   "gh_forks": 2373,
+   "gh_created_date": "2016-10-25"
+  },
+  "https://github.com/patomation/foundation-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2016-08-07"
+  },
+  "https://github.com/patternfly/patternfly-react": {
+   "gh_stars": 859,
+   "gh_forks": 395,
+   "gh_created_date": "2017-03-08"
+  },
+  "https://github.com/phosphor-icons/phosphor-core": {
+   "gh_stars": 402,
+   "gh_forks": 58,
+   "gh_created_date": "2022-02-28"
+  },
+  "https://github.com/pierrecomputer/icons": {
+   "gh_stars": 21,
+   "gh_forks": 3,
+   "gh_created_date": "2026-01-20"
+  },
+  "https://github.com/pixiv/charcoal": {
+   "gh_stars": 378,
+   "gh_forks": 55,
+   "gh_created_date": "2021-08-06"
+  },
+  "https://github.com/planetabhi/sargam-icons": {
+   "gh_stars": 192,
+   "gh_forks": 9,
+   "gh_created_date": "2022-09-24"
+  },
+  "https://github.com/pountzas/svg-flags": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2025-08-09"
+  },
+  "https://github.com/prashmaybe/haticons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-28"
+  },
+  "https://github.com/praveenjuge/mynaui-icons": {
+   "gh_stars": 177,
+   "gh_forks": 11,
+   "gh_created_date": "2023-09-21"
+  },
+  "https://github.com/praveenjuge/vadivam": {
+   "gh_stars": 14,
+   "gh_forks": 0,
+   "gh_created_date": "2026-05-16"
+  },
+  "https://github.com/primer/octicons": {
+   "gh_stars": 8785,
+   "gh_forks": 848,
+   "gh_created_date": "2014-06-16"
+  },
+  "https://github.com/prmack/16pxls": {
+   "gh_stars": 15,
+   "gh_forks": 2,
+   "gh_created_date": "2018-02-09"
+  },
+  "https://github.com/qeetgroup/qeetrix-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-08-18"
+  },
+  "https://github.com/qwd/Icons": {
+   "gh_stars": 270,
+   "gh_forks": 28,
+   "gh_created_date": "2021-09-23"
+  },
+  "https://github.com/radix-ui/icons": {
+   "gh_stars": 2708,
+   "gh_forks": 137,
+   "gh_created_date": "2019-05-02"
+  },
+  "https://github.com/rapideditor/temaki": {
+   "gh_stars": 114,
+   "gh_forks": 31,
+   "gh_created_date": "2018-06-03"
+  },
+  "https://github.com/resolvetosavelives/healthicons": {
+   "gh_stars": 886,
+   "gh_forks": 73,
+   "gh_created_date": "2021-05-25"
+  },
+  "https://github.com/rickyshin93/tao-ui": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-05-17"
+  },
+  "https://github.com/risan/country-flag-emoji-json": {
+   "gh_stars": 177,
+   "gh_forks": 145,
+   "gh_created_date": "2018-12-05"
+  },
+  "https://github.com/robertweisbecker/fyicons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-09-27"
+  },
+  "https://github.com/rossmoody/cryptocons": {
+   "gh_stars": 31,
+   "gh_forks": 5,
+   "gh_created_date": "2021-11-24"
+  },
+  "https://github.com/rpwalsh/risklab-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-07-13"
+  },
+  "https://github.com/russian-flags/regions": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-22"
+  },
+  "https://github.com/rzmt/logos-bancos-br": {
+   "gh_stars": 22,
+   "gh_forks": 2,
+   "gh_created_date": "2026-07-17"
+  },
+  "https://github.com/samcome/webfont-medical-icons": {
+   "gh_stars": 174,
+   "gh_forks": 54,
+   "gh_created_date": "2013-11-14"
+  },
+  "https://github.com/sbb-design-systems/sbb-icons": {
+   "gh_stars": 14,
+   "gh_forks": 0,
+   "gh_created_date": "2022-07-04"
+  },
+  "https://github.com/sbb-design-systems/sbb-pictograms": {
+   "gh_stars": 7,
+   "gh_forks": 1,
+   "gh_created_date": "2022-11-18"
+  },
+  "https://github.com/scayle/panel-icons": {
+   "gh_stars": 5,
+   "gh_forks": 1,
+   "gh_created_date": "2024-09-09"
+  },
+  "https://github.com/scottdejonge/map-icons": {
+   "gh_stars": 1041,
+   "gh_forks": 193,
+   "gh_created_date": "2013-08-07"
+  },
+  "https://github.com/selfhst/icons": {
+   "gh_stars": 995,
+   "gh_forks": 93,
+   "gh_created_date": "2024-08-13"
+  },
+  "https://github.com/shaggyt85/PlaytopiaIcons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-04-03"
+  },
+  "https://github.com/siemens/ix-icons": {
+   "gh_stars": 52,
+   "gh_forks": 9,
+   "gh_created_date": "2022-09-19"
+  },
+  "https://github.com/signal-flags/signal-flag-images": {
+   "gh_stars": 4,
+   "gh_forks": 0,
+   "gh_created_date": "2020-07-06"
+  },
+  "https://github.com/simple-icons/simple-icons": {
+   "gh_stars": 26235,
+   "gh_forks": 3198,
+   "gh_created_date": "2012-11-16"
+  },
+  "https://github.com/sippy-platform/valkyrie": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2021-04-29"
+  },
+  "https://github.com/snappmarket/icons": {
+   "gh_stars": 23,
+   "gh_forks": 4,
+   "gh_created_date": "2020-07-13"
+  },
+  "https://github.com/soaring-symbols/soaring-symbols": {
+   "gh_stars": 65,
+   "gh_forks": 14,
+   "gh_created_date": "2024-06-22"
+  },
+  "https://github.com/softconstruct/gene-ui-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2024-08-18"
+  },
+  "https://github.com/softstroke/softstroke": {
+   "gh_stars": 3,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-10"
+  },
+  "https://github.com/stash-ui/icons": {
+   "gh_stars": 23,
+   "gh_forks": 2,
+   "gh_created_date": "2022-11-02"
+  },
+  "https://github.com/stephenhutchings/typicons.font": {
+   "gh_stars": 1447,
+   "gh_forks": 216,
+   "gh_created_date": "2013-04-11"
+  },
+  "https://github.com/sumup-oss/circuit-ui": {
+   "gh_stars": 984,
+   "gh_forks": 131,
+   "gh_created_date": "2017-06-26"
+  },
+  "https://github.com/swisspost/design-system": {
+   "gh_stars": 181,
+   "gh_forks": 30,
+   "gh_created_date": "2022-02-23"
+  },
+  "https://github.com/tablecheck/vesper-icons": {
+   "gh_stars": 32,
+   "gh_forks": 2,
+   "gh_created_date": "2015-07-02"
+  },
+  "https://github.com/tabler/tabler-flags": {
+   "gh_stars": 46,
+   "gh_forks": 2,
+   "gh_created_date": "2024-03-29"
+  },
+  "https://github.com/tabler/tabler-icons": {
+   "gh_stars": 22709,
+   "gh_forks": 1282,
+   "gh_created_date": "2020-02-27"
+  },
+  "https://github.com/tailwindlabs/heroicons": {
+   "gh_stars": 23915,
+   "gh_forks": 1313,
+   "gh_created_date": "2020-02-24"
+  },
+  "https://github.com/tandpfun/skill-icons": {
+   "gh_stars": 13442,
+   "gh_forks": 1724,
+   "gh_created_date": "2022-03-02"
+  },
+  "https://github.com/tanximsiam/minicons-animated": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-19"
+  },
+  "https://github.com/tgines/pixel-flags": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-29"
+  },
+  "https://github.com/themesberg/flowbite-icons": {
+   "gh_stars": 240,
+   "gh_forks": 22,
+   "gh_created_date": "2023-06-13"
+  },
+  "https://github.com/thesabbir/simple-line-icons": {
+   "gh_stars": 1857,
+   "gh_forks": 813,
+   "gh_created_date": "2014-09-22"
+  },
+  "https://github.com/trimble-oss/modus-icons": {
+   "gh_stars": 11,
+   "gh_forks": 4,
+   "gh_created_date": "2022-12-13"
+  },
+  "https://github.com/twbs/icons": {
+   "gh_stars": 8185,
+   "gh_forks": 1123,
+   "gh_created_date": "2019-07-25"
+  },
+  "https://github.com/uiuxassets/uiuxicons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-12"
+  },
+  "https://github.com/uiwjs/icons": {
+   "gh_stars": 142,
+   "gh_forks": 19,
+   "gh_created_date": "2017-11-02"
+  },
+  "https://github.com/utilitywarehouse/hearth": {
+   "gh_stars": 0,
+   "gh_forks": 2,
+   "gh_created_date": "2024-11-12"
+  },
+  "https://github.com/uxlucas/merki": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-10-10"
+  },
+  "https://github.com/vaadin/web-components": {
+   "gh_stars": 585,
+   "gh_forks": 105,
+   "gh_created_date": "2020-12-26"
+  },
+  "https://github.com/vehiclespecs/brand-logos": {
+   "gh_stars": 11,
+   "gh_forks": 2,
+   "gh_created_date": "2026-05-16"
+  },
+  "https://github.com/vidstack/media-icons": {
+   "gh_stars": 28,
+   "gh_forks": 2,
+   "gh_created_date": "2023-03-16"
+  },
+  "https://github.com/viglino/font-gis": {
+   "gh_stars": 328,
+   "gh_forks": 49,
+   "gh_created_date": "2021-04-22"
+  },
+  "https://github.com/vmware/clarity": {
+   "gh_stars": 6384,
+   "gh_forks": 723,
+   "gh_created_date": "2016-09-29"
+  },
+  "https://github.com/vscode-icons/vscode-icons": {
+   "gh_stars": 5192,
+   "gh_forks": 1054,
+   "gh_created_date": "2016-05-30"
+  },
+  "https://github.com/vuesax-alphax/vuesax-alpha-icons": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2023-01-20"
+  },
+  "https://github.com/waysidemapping/pinhead": {
+   "gh_stars": 196,
+   "gh_forks": 18,
+   "gh_created_date": "2026-02-14"
+  },
+  "https://github.com/webalys-hq/streamline-vectors": {
+   "gh_stars": 109,
+   "gh_forks": 24,
+   "gh_created_date": "2022-01-20"
+  },
+  "https://github.com/webkul/vivid": {
+   "gh_stars": 1792,
+   "gh_forks": 83,
+   "gh_created_date": "2018-06-10"
+  },
+  "https://github.com/weui/weui-icon": {
+   "gh_stars": 74,
+   "gh_forks": 10,
+   "gh_created_date": "2020-03-12"
+  },
+  "https://github.com/wfp/carbon-icons": {
+   "gh_stars": 1,
+   "gh_forks": 7,
+   "gh_created_date": "2018-07-19"
+  },
+  "https://github.com/wgenial/mimetypeicons-nodejs": {
+   "gh_stars": 5,
+   "gh_forks": 2,
+   "gh_created_date": "2016-05-18"
+  },
+  "https://github.com/wikimedia/oojs-ui": {
+   "gh_stars": 69,
+   "gh_forks": 26,
+   "gh_created_date": "2013-11-07"
+  },
+  "https://github.com/withevergrow/withicons": {
+   "gh_stars": 9,
+   "gh_forks": 1,
+   "gh_created_date": "2026-10-01"
+  },
+  "https://github.com/wonderflow-bv/wanda": {
+   "gh_stars": 238,
+   "gh_forks": 27,
+   "gh_created_date": "2022-01-10"
+  },
+  "https://github.com/wp-pay/logos": {
+   "gh_stars": 7,
+   "gh_forks": 2,
+   "gh_created_date": "2020-02-25"
+  },
+  "https://github.com/yamatsum/nonicons": {
+   "gh_stars": 204,
+   "gh_forks": 9,
+   "gh_created_date": "2020-06-14"
+  },
+  "https://github.com/yammadev/flag-icons": {
+   "gh_stars": 102,
+   "gh_forks": 62,
+   "gh_created_date": "2017-06-26"
+  },
+  "https://github.com/yamogoo/alma-icons": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2025-09-13"
+  },
+  "https://github.com/yessir-web-tech/ginetex-icons": {
+   "gh_stars": 2,
+   "gh_forks": 0,
+   "gh_created_date": "2026-05-22"
+  },
+  "https://github.com/yldm-tech/ai-logo": {
+   "gh_stars": 4,
+   "gh_forks": 1,
+   "gh_created_date": "2026-09-13"
+  },
+  "https://github.com/yne/picon": {
+   "gh_stars": 29,
+   "gh_forks": 3,
+   "gh_created_date": "2019-10-19"
+  },
+  "https://github.com/zainadeel/icomo": {
+   "gh_stars": 1,
+   "gh_forks": 0,
+   "gh_created_date": "2026-04-10"
+  },
+  "https://github.com/zendeskgarden/svg-icons": {
+   "gh_stars": 34,
+   "gh_forks": 16,
+   "gh_created_date": "2018-04-11"
+  },
+  "https://github.com/zerobertoo/r6operators": {
+   "gh_stars": 3,
+   "gh_forks": 1,
+   "gh_created_date": "2026-05-05"
+  },
+  "https://github.com/zhangv/forma-icons": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-01"
+  },
+  "https://github.com/zkreations/icons": {
+   "gh_stars": 44,
+   "gh_forks": 0,
+   "gh_created_date": "2022-12-11"
+  },
+  "https://github.com/zodiacfonts/zodiacfonts": {
+   "gh_stars": 4,
+   "gh_forks": 0,
+   "gh_created_date": "2026-06-05"
+  },
+  "https://github.com/zraly/humbleicons": {
+   "gh_stars": 190,
+   "gh_forks": 3,
+   "gh_created_date": "2021-02-13"
+  },
+  "https://github.com/zuccadev-labs/zuix": {
+   "gh_stars": 0,
+   "gh_forks": 0,
+   "gh_created_date": "2026-11-14"
+  }
+ }
+}

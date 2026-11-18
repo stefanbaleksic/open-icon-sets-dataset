@@ -1,0 +1,6 @@
+original_id,set_id,name,author,frame,repo_url,icons_total,reason
+36,crewlethq-icons,@crewlethq/icons,GitHub Actions,npm discovery (not in Iconify),https://github.com/crewlet/uilet,280,"rule: 74.9% of its icons appear in 'qeetrix-icons', which has the earlier origin date (2026-08-23 vs 2026-09-13)"
+304,famicons,Famicons,Family,iconify,https://github.com/familyjs/famicons,1342,"rule: 98.9% of its icons appear in 'ion', which has the earlier origin date (2013-10-10 vs 2023-04-17)"
+410,maru-icons,maru-icons,fmenard,npm discovery (not in Iconify),https://github.com/maru-audio/maru-icons,182,"rule: 71.3% of its icons appear in 'qeetrix-icons', which has the earlier origin date (2026-08-23 vs 2026-10-27)"
+515,thesvg,theSVG,thesvg.org,iconify,https://github.com/glincker/thesvg,3805,"rule: 88.3% of its icons appear in 'simple-icons', which has the earlier origin date (2012-11-16 vs 2026-03-07)"
+573,xymbols,xymbols,GitHub Actions,npm discovery (not in Iconify),https://github.com/componext/xymbols,2504,"rule: 74.1% of its icons appear in 'qeetrix-icons', which has the earlier origin date (2026-08-23 vs 2026-10-20)"

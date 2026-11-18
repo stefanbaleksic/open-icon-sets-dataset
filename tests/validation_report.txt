@@ -1,0 +1,2 @@
+file: data/icon_sets_v3.csv  rows=571 cols=124
+FAIL: 0  WARN: 0
