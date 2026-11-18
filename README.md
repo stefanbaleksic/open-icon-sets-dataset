@@ -1,4 +1,4 @@
-# Icon Sets Dataset v3 (draft)
+# Open Icon Sets Dataset
 
 One row per open icon set: 571 sets with icon totals, licence (as Iconify reports it, and as checked against the licence text where possible), repository, npm releases, downloads and icon-content measures. Snapshot cut-off **2026-11-16 23:59:59 UTC**; live collection run on 2026-11-18. Status: **draft, not published, no DOI yet**.
 
